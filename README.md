@@ -49,13 +49,13 @@ Teraz wystarczy, że pole `TWÓJ_HEX` podmienisz na hexa osoby, której chcesz n
 - wybór postaci - 'postacie'
 
 ### Podstawowe komendy administracyjne
-/setjob id_gracza nazwa_pracy numer_rangi - Nadawanie pracy dla konkretnego gracza | przykład: /setjob 2 police 3
-/car nazwa_modelu - Respienie wybranego pojazdu | przykład: /car t20
-/setmoney id_gracza ilość_pieniędzy - Dawanie określonej ilości gotówki dla gracza | przykład: /setmoney 2 10000
-/dv - Usuwa pojazd w którym siedzimy
-/revive id_gracza - Ożywia wybranego gracza | przykład: /revive 2
-/heal id_gracza - Odnawia zdrowie wybranego gracza | przykład: /heal 2
-/giveweapon id_gracza nazwa_broni ilość_amunicji | Nazwy broni należy brać ze strony https://wiki.rage.mp/index.php?title=Weapons | przykład: /giveweapon 2 weapon_pistol 200
+- /setjob id_gracza nazwa_pracy numer_rangi - Nadawanie pracy dla konkretnego gracza | przykład: /setjob 2 police 3
+- /car nazwa_modelu - Respienie wybranego pojazdu | przykład: /car t20
+- /setmoney id_gracza ilość_pieniędzy - Dawanie określonej ilości gotówki dla gracza | przykład: /setmoney 2 10000
+- /dv - Usuwa pojazd w którym siedzimy
+- /revive id_gracza - Ożywia wybranego gracza | przykład: /revive 2
+- /heal id_gracza - Odnawia zdrowie wybranego gracza | przykład: /heal 2
+- /giveweapon id_gracza nazwa_broni ilość_amunicji | Nazwy broni należy brać ze strony https://wiki.rage.mp/index.php?title=Weapons | przykład: /giveweapon 2 weapon_pistol 200
 
 ### Nazwy wszystkich prac
 
