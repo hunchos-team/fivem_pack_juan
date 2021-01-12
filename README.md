@@ -4,14 +4,6 @@
 	<h4>
 		<a href="https://hunchos.live/">Dokumentacja</a>
 	</h4>
-	<br>
-	<br>
-	<br>
-	<p>
-	</p>
-	<br>
-	<br>
-	<br>
 </div>
 
 ### Instalacja
