@@ -64,3 +64,13 @@ Aby zdobyć nazwę danej pracy należy w pierwszej kolejności wejść w tabele 
 
 Aby wyszukać nazwę i numer odpowiadający za daną rangę wejdź do tabeli `job_grades` i tak jak poprzednio zaznacz checkbox'a "Pokaż wszystko". Następnie wyszukaj nazwę pracy z poprzedniej tabeli i będziesz miał wszystkie rangi, wraz z ich numerami :)
 > Ważne: Numer rangi odpowiada danym z kolumny `grade`
+
+
+
+### Pomoc techniczna 
+
+#Potrzebuje pomocy z paczką - co mam zrobić?
+- Najważniejsze - "Kto pyta nie bładzi!", dlatego jeżeli nie wiesz jak coś edytować, lub boisz się, że coś zepsujesz to dopytaj się kogoś, lub nas na tickecie - Bez problemu pomożemy z naprawą błędów, lub zmianą skryptów.
+
+# Jak powinno wygląd zgłoszenie błędu?
+- Przykład poprawnego zgłoszenia: `Cześć, dzisiaj po edycji skryptu esx_shops wywaliło mi błąd w konsoli serwera: [HypeSQL] Tabela `shop_inventory` nie istnieje. [SCREEN Z KONSOLI]. Pod f8 nie występują żadne błędy. Co mam zrobić?`
