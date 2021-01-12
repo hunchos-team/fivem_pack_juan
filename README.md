@@ -69,8 +69,8 @@ Aby wyszukać nazwę i numer odpowiadający za daną rangę wejdź do tabeli `jo
 
 ### Pomoc techniczna 
 
-#Potrzebuje pomocy z paczką - co mam zrobić?
+# Potrzebuje pomocy z paczką - co mam zrobić?
 - Najważniejsze - "Kto pyta nie bładzi!", dlatego jeżeli nie wiesz jak coś edytować, lub boisz się, że coś zepsujesz to dopytaj się kogoś, lub nas na tickecie - Bez problemu pomożemy z naprawą błędów, lub zmianą skryptów.
 
-# Jak powinno wygląd zgłoszenie błędu?
+# Jak powinno wyglądać zgłoszenie błędu?
 - Przykład poprawnego zgłoszenia: `Cześć, dzisiaj po edycji skryptu esx_shops wywaliło mi błąd w konsoli serwera: [HypeSQL] Tabela `shop_inventory` nie istnieje. [SCREEN Z KONSOLI]. Pod f8 nie występują żadne błędy. Co mam zrobić?`
