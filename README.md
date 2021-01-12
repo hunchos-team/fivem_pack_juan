@@ -2,15 +2,12 @@
 	<img src="logo.gif" alt="Hunchos">
 	<br>
 	<h4>
-		Najbezpieczniejsza, oraz najbardziej rozbudowana <a href="https://hunchos.live/">Lista serwerów</a>
+		<a href="https://hunchos.live/">Dokumentacja</a>
 	</h4>
 	<br>
 	<br>
 	<br>
 	<p>
-	<h5>
-		Poniżej znajdziesz pełną dokumentację projektu. <p style="color: red">Pamiętaj tylko, że cały projekt jest objęty licencją CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)</p>
-	</h5>
 	</p>
 	<br>
 	<br>
