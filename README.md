@@ -38,3 +38,29 @@ add_principal identifier.steam:TWÓJ_HEX group.admin
 Teraz wystarczy, że pole `TWÓJ_HEX` podmienisz na hexa osoby, której chcesz nadać permisje. Po restarcie serwera, będzie ona mogła korzystac z komend administracyjnych i EasyAdmina.
 
 (Hexa najlepiej brać ze strony http://vacbanned.com/)
+
+### Jaki skrypt za co odpowiada?
+- recoil, driveby - 'strzelanie'
+- ruch na mieście - 'traffic'
+- hud - 'route68'
+- wygląd hudu - 'esx_menu_default', 'esx_menu_dialog', 'esx_menu_list'
+- narkotyki - 'esx_drugs', 'dragi'
+- sprzedawanie narkotyków - 'menu'
+- wybór postaci - 'postacie'
+
+### Podstawowe komendy administracyjne
+/setjob id_gracza nazwa_pracy numer_rangi - Nadawanie pracy dla konkretnego gracza | przykład: /setjob 2 police 3
+/car nazwa_modelu - Respienie wybranego pojazdu | przykład: /car t20
+/setmoney id_gracza ilość_pieniędzy - Dawanie określonej ilości gotówki dla gracza | przykład: /setmoney 2 10000
+/dv - Usuwa pojazd w którym siedzimy
+/revive id_gracza - Ożywia wybranego gracza | przykład: /revive 2
+/heal id_gracza - Odnawia zdrowie wybranego gracza | przykład: /heal 2
+/giveweapon id_gracza nazwa_broni ilość_amunicji | Nazwy broni należy brać ze strony https://wiki.rage.mp/index.php?title=Weapons | przykład: /giveweapon 2 weapon_pistol 200
+
+### Nazwy wszystkich prac
+
+Aby zdobyć nazwę danej pracy należy w pierwszej kolejności wejść w tabele `jobs` następnie kliknąc w checkbox'a "Pokaż wszystko" i wyszukać nazwy pracy, która Ciebie interesuje.
+> Ważne: Aby nadać komuś tą pracę musisz brać nazwę z kolumny `name`, czyli przykładowo `police`, a nie `Policja`
+
+Aby wyszukać nazwę i numer odpowiadający za daną rangę wejdź do tabeli `job_grades` i tak jak poprzednio zaznacz checkbox'a "Pokaż wszystko". Następnie wyszukaj nazwę pracy z poprzedniej tabeli i będziesz miał wszystkie rangi, wraz z ich numerami :)
+> Ważne: Numer rangi odpowiada danym z kolumny `grade`
