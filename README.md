@@ -13,9 +13,9 @@ Aby zacząć korzystać z naszej paczki pierwsze co musisz posiadać to wygenero
 Następnie wygeneruj klucz steam web api key (https://steamcommunity.com/dev/apikey), oraz klucz licencyjny fivem (https://keymaster.fivem.net/)
 
 Wszystkie klucze wpisujesz w pliku server.cfg :
-> klucz hunchos - set hunchos_key "klucz"
-> steam web api key - set steam_webApiKey "klucz"
-> keymaster fivem - sv_licenseKey klucz
+> - klucz hunchos - set hunchos_key "klucz" 
+> - steam web api key - set steam_webApiKey "klucz" 
+> - keymaster fivem - sv_licenseKey klucz 
 
 Ostatnią rzeczą jaką musisz ustawić w server.cfg to połączenie z bazą danych. Aby to zrobić znajdź linijkę `set mysql_connection_string`  i uzupełnij ją w następujący sposób : `"server=adres_ip_twojej_bazy;database=nazwa_twojej_bazy;userid=nazwa_uzytkownika;password=hasło"`
 
