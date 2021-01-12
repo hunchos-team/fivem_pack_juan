@@ -67,7 +67,6 @@ Aby wyszukać nazwę i numer odpowiadający za daną rangę wejdź do tabeli `jo
 
 
 
-### Pomoc techniczna 
 
 # Potrzebuje pomocy z paczką - co mam zrobić?
 - Najważniejsze - "Kto pyta nie bładzi!", dlatego jeżeli nie wiesz jak coś edytować, lub boisz się, że coś zepsujesz to dopytaj się kogoś, lub nas na tickecie - Bez problemu pomożemy z naprawą błędów, lub zmianą skryptów.
