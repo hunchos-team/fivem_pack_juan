@@ -25,7 +25,7 @@ set mysql_connection_string "server=123.123.123;database=bazadanych_1;userid=uzy
 ```
 
 ### Nadawanie permisji
-Aby nadać sobie, lub komuś innemu permisje wejdź do pliku server.cfg i odszukaj następującej linijki:
+Aby nadać sobie, lub komuś innemu permisje wejdź do pliku server.cfg i odszukaj następującą linijkę:
 ```
 ##############################################################
 #                     ADMINISTRATORZY                        #
