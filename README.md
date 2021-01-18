@@ -65,7 +65,12 @@ Aby zdobyć nazwę danej pracy należy w pierwszej kolejności wejść w tabele 
 Aby wyszukać nazwę i numer odpowiadający za daną rangę wejdź do tabeli `job_grades` i tak jak poprzednio zaznacz checkbox'a "Pokaż wszystko". Następnie wyszukaj nazwę pracy z poprzedniej tabeli i będziesz miał wszystkie rangi, wraz z ich numerami :)
 > Ważne: Numer rangi odpowiada danym z kolumny `grade`
 
-
+### Klawiszologia
+- f1 - menu postaci
+- f2 - ekwipunek
+- f5 - zmiana zasięgu rozmowy
+- f6 - menu frakcyjne/gangowe
+- delete - tablet policyjny
 
 
 # Potrzebuje pomocy z paczką - co mam zrobić?
