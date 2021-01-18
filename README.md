@@ -68,6 +68,7 @@ Aby wyszukać nazwę i numer odpowiadający za daną rangę wejdź do tabeli `jo
 ### Klawiszologia
 - f1 - menu postaci
 - f2 - ekwipunek
+- f3 - telefon
 - f5 - zmiana zasięgu rozmowy
 - f6 - menu frakcyjne/gangowe
 - delete - tablet policyjny
